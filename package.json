@@ -1,0 +1,23 @@
+{
+  "name": "reduxtoreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWaterIsAlive/REDUXTOREACT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheWaterIsAlive/REDUXTOREACT/issues"
+  },
+  "homepage": "https://github.com/TheWaterIsAlive/REDUXTOREACT#readme",
+  "devDependencies": {
+    "react-redux": "^7.1.3",
+    "redux": "^4.0.4"
+  }
+}
